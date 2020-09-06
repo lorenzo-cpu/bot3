@@ -1,0 +1,1 @@
+test: python "botDsk.py"
